@@ -1,0 +1,14 @@
+{
+  "empresa": "EDEM Retail S.L.",
+  "periodo": "2026-10",
+  "ventas": [
+    {"id": 1, "fecha": "2026-10-01", "producto": "Portátil", "region": "Valencia", "cantidad": 3, "precio_unitario": 899.99},
+    {"id": 2, "fecha": "2026-10-03", "producto": "Monitor", "region": "Madrid", "cantidad": 5, "precio_unitario": 189.50},
+    {"id": 3, "fecha": "2026-10-07", "producto": "Teclado", "region": "Valencia", "cantidad": 12, "precio_unitario": 45.00},
+    {"id": 4, "fecha": "2026-10-10", "producto": "Ratón", "region": "Barcelona", "cantidad": 20, "precio_unitario": 19.99},
+    {"id": 5, "fecha": "2026-10-14", "producto": "Portátil", "region": "Madrid", "cantidad": 2, "precio_unitario": 899.99},
+    {"id": 6, "fecha": "2026-10-18", "producto": "Auriculares", "region": "Valencia", "cantidad": 8, "precio_unitario": 59.90},
+    {"id": 7, "fecha": "2026-10-22", "producto": "Monitor", "region": "Barcelona", "cantidad": 4, "precio_unitario": 189.50},
+    {"id": 8, "fecha": "2026-10-29", "producto": "Webcam", "region": "Madrid", "cantidad": 6, "precio_unitario": 74.95}
+  ]
+}
